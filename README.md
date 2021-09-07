@@ -1,7 +1,7 @@
 I have used MediaPipe to detect key points for human body joints,
 which in turn allows us to detect squat pose. 
 
-Here is the Google Colab Notebook
+[Here is the Google Colab Notebook](https://github.com/mansikataria/SquatDetection/blob/main/Squat_Detection.ipynb)
 
 
 ![angle logic](https://user-images.githubusercontent.com/11619444/132310099-d62af5df-133e-4523-89f8-3463bff01fd6.jpg)
